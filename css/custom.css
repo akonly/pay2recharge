@@ -1,0 +1,38 @@
+.img-gal-pad{
+	padding: 0 4px 0 0 !important;
+}
+.p-none{
+	padding: 0 !important;
+}
+.ratting-bg{
+	width: 80%;
+	height: 9px;
+	background-color: #dbdbdb;
+	margin-top: 6px;
+	z-index: 0;
+}
+.ratting{
+	height: 9px;
+	background-color: #39875F;
+	z-index: 1;
+}
+.cus-pill{
+	font-weight: 400;
+	font-size: 13px;
+	padding: 7px;
+}
+.alpha-avatar{
+	font-weight: 500;
+	font-size: 16px;
+	width: 30px;
+	height: 30px;
+	padding: 2px;
+	color: white;
+	text-align: center;
+}
+.alpha-avatar-name{
+	font-size: 112%;
+	margin-left: 15px;
+	margin-top: 3px;
+	color: black;
+}
